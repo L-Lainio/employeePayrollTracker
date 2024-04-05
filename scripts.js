@@ -21,12 +21,20 @@ let employee = {
 decision = confirm('do you want to add another employee');
 allEmployees.push(employee)
 
-}return allEmployees 
+}return allEmployees
 }
 
 // Display the average salary
 const displayAverageSalary = function(employeesArray) {
   // TODO: Calculate and display the average salary
+  totalSalary = 0;
+  for (let index = 0; index < employeesArray.length; index++) {
+    const currentEmployee = employeesArray[index];
+    totalSalary += parseInt(currentEmployee.salary)
+  }
+let averageSalary = totalSalary / employeesArray.length;
+console.log(`average salary for employees is` $${averageSalary.toFixed(2)}``);
+return averageSalary;
 }
 
 // Select a random employee
