@@ -6,23 +6,23 @@ const collectEmployees = function() {
   // TODO: Get user input to create and return an array of employee objects
 let decision = true;
 const allEmployees = [];
-While (decision) {
-const firstNameCell = prompt('enter employee first name');
-const lastNameCell = prompt('enter employee last name');
-const salaryCell = prompt('enter employee salary amount');
-if (isNaN(salaryCell) || salaryCell === null ) {
-salaryCell = 0;
-}
-let employee = {
-  firstName: firstNameCell,
-  lastName: lastNameCell,
-  salary: parseFloat(salaryCell),
+
+while (decision) {
+  const firstNameCell = prompt("enter employee first name");
+  const lastNameCell = prompt("enter employee last name");
+  const salaryCell = prompt("enter employee salary amount");
+  if (isNaN(salaryCell) || salaryCell === null ) {
+  salaryCell = 0;
+  }
+    let employee = {
+      firstName: firstNameCell,
+      lastName: lastNameCell,
+      salary: parseFloat(salaryCell),
 }
 decision = confirm('do you want to add another employee');
 allEmployees.push(employee)
 
-}return allEmployees
-}
+}return allEmployees}
 
 // Display the average salary
 const displayAverageSalary = function(employeesArray) {
@@ -33,19 +33,16 @@ const displayAverageSalary = function(employeesArray) {
     totalSalary += parseInt(currentEmployee.salary)
   }
 let averageSalary = totalSalary / employeesArray.length;
-console.log(`average salary for employees is` $${averageSalary.toFixed(2)}``);
+console.log(`average salary for employees is $${averageSalary.toFixed(2)}`);
 return averageSalary;
 }
 
 // Select a random employee
 const getRandomEmployee = function(employeesArray) {
   // TODO: Select and display a random employee
-
-
-  lastName; lastName,
-  salary; parseInt(salary)
+let randomEmployee = Math.floor(Math.random() * employeesArray.length);
+console.log(`random selected employee ${employeesArray[randomEmployee].firstName} ${employeesArray[randomEmployee].lastName}`)
 }
-
 /*
   ====================
   STARTER CODE
