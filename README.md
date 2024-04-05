@@ -1,4 +1,6 @@
 # javascript_payroll_tracking
+third assignment for ucf coding for javascript application for payroll tracker
+# javascript_payroll_tracking
 # 03 JavaScript: Employee Payroll Tracker
 
 ## Your Task
@@ -124,4 +126,3 @@ You are required to submit the following for review:
 
 - - -
 © 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
-
