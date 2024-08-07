@@ -1,6 +1,4 @@
-# javascript_payroll_tracking
-third assignment for ucf coding for javascript application for payroll tracker
-# javascript_payroll_tracking
+
 # 03 JavaScript: Employee Payroll Tracker
 
 ## Your Task
