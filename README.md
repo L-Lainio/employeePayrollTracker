@@ -49,9 +49,9 @@ THEN my employee data is displayed on the page sorted alphabetically by last nam
 
 The following images show the web application's appearance and functionality:
 
-![Animation shows input of employees to an employee payroll tracker.](./assets/Zight%20Recording%202024-8-7%20at%208.51.27%20PM.gif)
+![Animation shows input of employees to an employee payroll tracker.](./assets/Zight%20Recording%202024-8-7%20at%209.14.11%20PM.gif)
 
-![Shows employee information in the console of an employee payroll tracker.](./assets/Zight%202024-8-7%20at%208.53.03%20PM.png)
+![Shows employee information in the console of an employee payroll tracker.](./assets/Zight%202024-8-7%20at%209.11.11%20PM.jpeg)
 
 ## Usage-Information
 
