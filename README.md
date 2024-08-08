@@ -49,9 +49,9 @@ THEN my employee data is displayed on the page sorted alphabetically by last nam
 
 The following images show the web application's appearance and functionality:
 
-![Animation shows input of employees to an employee payroll tracker.](./Assets/03-javascript-homework-demo.gif)
+![Animation shows input of employees to an employee payroll tracker.](./assets/Zight%20Recording%202024-8-7%20at%208.51.27%20PM.gif)
 
-![Shows employee information in the console of an employee payroll tracker.](./Assets/03-javascript-homework-console-demo.png)
+![Shows employee information in the console of an employee payroll tracker.](./assets/Zight%202024-8-7%20at%208.53.03%20PM.png)
 
 ## Usage-Information
 
@@ -142,3 +142,11 @@ You are required to submit the following for review:
 
 - - -
 © 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+## Questions
+
+Have additional questions? Click the links below to reach me through my GitHub account or Email address.
+
+[Link to Github](https://github.com/L-Lainio)
+
+<a href="mailto:lora.lainio.it@gmail.com">lora.lainio.it@gmail.com</a>
